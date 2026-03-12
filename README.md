@@ -8,7 +8,7 @@
 
 ## 2주차
 
-- Git 설치
+- Git 설치/설정
 - Python 설치
 - Jupyter Notebook 설치
 
